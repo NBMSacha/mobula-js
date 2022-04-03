@@ -20,3 +20,5 @@ mobula.getData('0x557233e794d1a5fbcc6d26dca49147379ea5073c').then(console.log);
 
 
 That's it. You're done.
+
+You're a bit lost, or you're facing an issue? Feel free to ask some help from our community on (Telegram)[https://t.me/MobulaFi] or (Discord)[https://discord.com/invite/nrkVNNke8Q].
