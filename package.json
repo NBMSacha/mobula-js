@@ -1,0 +1,30 @@
+{
+  "name": "mobulajs",
+  "version": "1.0.0",
+  "description": "Mobula JS client. 2 lines of code to get seamless meta-data about any crypto-token.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBMSacha/mobula-js.git"
+  },
+  "keywords": [
+    "crypto",
+    "data",
+    "coingecko",
+    "coinmarketcap",
+    "api"
+  ],
+  "author": "Sacha Marcus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBMSacha/mobula-js/issues"
+  },
+  "homepage": "https://github.com/NBMSacha/mobula-js#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "ethers": "^5.6.2"
+  }
+}
