@@ -11,8 +11,9 @@ First thing first, let's download Mobula JS.
 To get data from Mobula, use the `getData` function :
 
 `
-const Mobula = require('mobula');
+const Mobula = require('mobula');\n
 const mobula = new Mobula();
 mobula.getData('0x557233e794d1a5fbcc6d26dca49147379ea5073c').then(console.log);
 `
+\n
 That's it. You're done.
