@@ -6,12 +6,12 @@ Mobula JS client. 2 lines of code to get seamless meta-data about any crypto-tok
 
 First thing first, let's download Mobula JS.
 
-`npm i mobula`
+`npm i mobulajs`
 
 To get data from Mobula, use the `getData` function :
 
 ```
-const Mobula = require('mobula');
+const Mobula = require('mobulajs');
 
 const mobula = new Mobula();
 
